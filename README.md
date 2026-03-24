@@ -22,7 +22,7 @@ $$T_{ij} = \frac{P_i^{\alpha} \times A_j^{\beta}}{d_{ij}^{\gamma}}$$
 The model represents:
 1. The higher value of population and attractiveness lead to higher estimated travels.
 2. While greater the distance between population (i) and attractiveness (j), fewer estimated travels.
-3. \alpha, \beta, and \gamma are components to define whether the variables are significant or not.
+3. $\alpha$, $\beta$, and $\gamma$ are components to define whether the variables are significant or not.
 
 # Data Collection
 I used 2 data resource, administrative boundaries (kelurahan level) and Point of Interest (POI) from each administrative boundaries.
