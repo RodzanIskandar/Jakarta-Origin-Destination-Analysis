@@ -45,6 +45,6 @@ Top number of PoI in kelurahan level
   4. Cikini
   5. Menteng
      
-![](https://github.com/RodzanIskandar/Jakarta-Origin-Destination-Analysis/blob/main/outputs/top_poi_count.png) ![](https://github.com/RodzanIskandar/Jakarta-Origin-Destination-Analysis/blob/main/outputs/top_destinations.png)
+![](https://github.com/RodzanIskandar/Jakarta-Origin-Destination-Analysis/blob/main/outputs/top_poi_count.png)
    
    
