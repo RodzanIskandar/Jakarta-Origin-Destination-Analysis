@@ -37,12 +37,15 @@ I used 2 data resource, administrative boundaries (kelurahan level) and Point of
 | `building` | `commercial`, `office`, `retail` | Commercial buildings |
 
 # Result
-- Top number of PoI in kelurahan level
+
+Top number of PoI in kelurahan level
   1. Kuningan timur
   2. Gambir
   3. Kebon Melati
   4. Cikini
   5. Menteng
-  ![](https://github.com/RodzanIskandar/Jakarta-Origin-Destination-Analysis/blob/main/outputs/top_poi_count.png)
+     
+![](https://github.com/RodzanIskandar/Jakarta-Origin-Destination-Analysis/blob/main/outputs/top_poi_count.png)
+![](https://github.com/RodzanIskandar/Jakarta-Origin-Destination-Analysis/blob/main/outputs/top_destinations.png)
    
    
