@@ -5,6 +5,7 @@ This project happened because of author curiosity toward public transportation d
 
 # Theory
 Gravity Model to determine number of flow from origin to destination area.
+
 $$T_{ij} = \frac{P_i^{\alpha} \times A_j^{\beta}}{d_{ij}^{\gamma}}$$
 
 | Symbol | Parameter | Value | Description |
@@ -41,6 +42,6 @@ I used 2 data resource, administrative boundaries (kelurahan level) and Point of
   3. Kebon Melati
   4. Cikini
   5. Menteng
-  ![](https://github.com/RodzanIskandar/Jakarta-Origin-Destination-Analysis/blob/main/outputs/poi_count_per_kelurahan.png)
+  ![](https://github.com/RodzanIskandar/Jakarta-Origin-Destination-Analysis/blob/main/outputs/top_poi_count.png)
    
    
