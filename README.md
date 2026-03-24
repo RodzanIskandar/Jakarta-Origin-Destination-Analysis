@@ -6,6 +6,7 @@ This project happened because of author curiosity toward public transportation d
 # Theory
 Gravity Model to determine number of flow from origin to destination area.
 
+
 $$T_{ij} = \frac{P_i^{\alpha} \times A_j^{\beta}}{d_{ij}^{\gamma}}$$
 
 | Symbol | Parameter | Value | Description |
