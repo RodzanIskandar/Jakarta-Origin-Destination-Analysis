@@ -26,6 +26,7 @@ The model represents:
 I used 2 data resource, administrative boundaries (kelurahan level) and Point of Interest (POI) from each administrative boundaries.
 1. Administrative boundaries: https://data.humdata.org/dataset/cod-ab-idn
 2. Point of Interest (PoI): library osmnx with tags
+
 | OSM Key | OSM Values | Description |
 |---------|------------|-------------|
 | `office` | `True` | All office types |
