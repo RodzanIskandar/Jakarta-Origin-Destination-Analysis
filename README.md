@@ -37,14 +37,19 @@ I used 2 data resource, administrative boundaries (kelurahan level) and Point of
 | `building` | `commercial`, `office`, `retail` | Commercial buildings |
 
 # Result
+1. Point of Interest (PoI) of mainland Jakarta region
+![](https://github.com/RodzanIskandar/Jakarta-Origin-Destination-Analysis/blob/main/outputs/Top_POI_Jakarta.png)
 
-Top number of PoI in kelurahan level
-  1. Kuningan timur
-  2. Gambir
-  3. Kebon Melati
-  4. Cikini
-  5. Menteng
-     
+2. Top number of PoI in kelurahan level
 ![](https://github.com/RodzanIskandar/Jakarta-Origin-Destination-Analysis/blob/main/outputs/top_poi_count.png)
-   
-   
+![](https://github.com/RodzanIskandar/Jakarta-Origin-Destination-Analysis/blob/main/outputs/Top_POI_Kelurahan_1.png)
+![](https://github.com/RodzanIskandar/Jakarta-Origin-Destination-Analysis/blob/main/outputs/Top_POI_Kelurahan_2.png)
+![](https://github.com/RodzanIskandar/Jakarta-Origin-Destination-Analysis/blob/main/outputs/Top_POI_Kelurahan_3.png)
+
+3. Estimated Origin Destination flow between kelurahan
+![](https://github.com/RodzanIskandar/Jakarta-Origin-Destination-Analysis/blob/main/outputs/od_flow_map.png)
+
+4. Top Destination
+![](https://github.com/RodzanIskandar/Jakarta-Origin-Destination-Analysis/blob/main/outputs/top_destinations.png)
+
+5. 
