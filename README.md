@@ -39,17 +39,19 @@ I used 2 data resource, administrative boundaries (kelurahan level) and Point of
 # Result
 1. Point of Interest (PoI) of mainland Jakarta region
 ![](https://github.com/RodzanIskandar/Jakarta-Origin-Destination-Analysis/blob/main/outputs/Top_POI_Jakarta.png)
+![](https://github.com/RodzanIskandar/Jakarta-Origin-Destination-Analysis/blob/main/outputs/Top_POI_Jakarta_percentage.png)
+Here is the PoI type based on tags in osmnx library, the validation process is required for more accurate data. However based on data resource it shows School and Government are top 2 PoI type with coverage around 70% of all PoI type.
 
-2. Top number of PoI in kelurahan level
+3. Top number of PoI in kelurahan level
 ![](https://github.com/RodzanIskandar/Jakarta-Origin-Destination-Analysis/blob/main/outputs/top_poi_count.png)
 ![](https://github.com/RodzanIskandar/Jakarta-Origin-Destination-Analysis/blob/main/outputs/Top_POI_Kelurahan_1.png)
 ![](https://github.com/RodzanIskandar/Jakarta-Origin-Destination-Analysis/blob/main/outputs/Top_POI_Kelurahan_2.png)
 ![](https://github.com/RodzanIskandar/Jakarta-Origin-Destination-Analysis/blob/main/outputs/Top_POI_Kelurahan_3.png)
 
-3. Estimated Origin Destination flow between kelurahan
+4. Estimated Origin Destination flow between kelurahan
 ![](https://github.com/RodzanIskandar/Jakarta-Origin-Destination-Analysis/blob/main/outputs/od_flow_map.png)
 
-4. Top Destination
+5. Top Destination
 ![](https://github.com/RodzanIskandar/Jakarta-Origin-Destination-Analysis/blob/main/outputs/top_destinations.png)
 
-5. 
+6. 
