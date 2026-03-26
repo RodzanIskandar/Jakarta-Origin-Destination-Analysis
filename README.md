@@ -49,7 +49,11 @@ Here is the PoI type based on tags in osmnx library, the validation process is r
 ![](https://github.com/RodzanIskandar/Jakarta-Origin-Destination-Analysis/blob/main/outputs/sample_school_poi.png)
 ![](https://github.com/RodzanIskandar/Jakarta-Origin-Destination-Analysis/blob/main/outputs/sample_government_poi.png)
 
-**3. Top 10 number of PoI in kelurahan level**
+**3. PoI Distribution**
+
+![](https://github.com/RodzanIskandar/Jakarta-Origin-Destination-Analysis/blob/main/outputs/poi_count_per_kelurahan.png)
+
+**4. Top 10 number of PoI in kelurahan level**
 
 ![](https://github.com/RodzanIskandar/Jakarta-Origin-Destination-Analysis/blob/main/outputs/top_10_poi_kelurahan_table.png)
 ![](https://github.com/RodzanIskandar/Jakarta-Origin-Destination-Analysis/blob/main/outputs/top_poi_count.png)
@@ -57,8 +61,8 @@ Here is the PoI type based on tags in osmnx library, the validation process is r
 ![](https://github.com/RodzanIskandar/Jakarta-Origin-Destination-Analysis/blob/main/outputs/Top_POI_Kelurahan_2.png)
 ![](https://github.com/RodzanIskandar/Jakarta-Origin-Destination-Analysis/blob/main/outputs/Top_POI_Kelurahan_3.png)
 
-**4. Estimated Origin Destination flow between kelurahan**
+**5. Estimated Origin Destination flow between kelurahan**
 ![](https://github.com/RodzanIskandar/Jakarta-Origin-Destination-Analysis/blob/main/outputs/od_flow_map.png)
 
-**5. Top Destination**
+**6. Top Destination**
 ![](https://github.com/RodzanIskandar/Jakarta-Origin-Destination-Analysis/blob/main/outputs/top_destinations.png)
