@@ -39,10 +39,11 @@ I used 2 data resource, administrative boundaries (kelurahan level) and Point of
 # Result
 **1. Point of Interest (PoI) of mainland Jakarta region**
 
+Here is the PoI type based on tags in osmnx library, the validation process is required for more accurate data. However based on data resource it shows School and Government are top 2 PoI type with coverage around 70% of all PoI type.
+
 ![](https://github.com/RodzanIskandar/Jakarta-Origin-Destination-Analysis/blob/main/outputs/Top_POI_Jakarta.png)
 ![](https://github.com/RodzanIskandar/Jakarta-Origin-Destination-Analysis/blob/main/outputs/Top_POI_Jakarta_percentage.png)
 
-Here is the PoI type based on tags in osmnx library, the validation process is required for more accurate data. However based on data resource it shows School and Government are top 2 PoI type with coverage around 70% of all PoI type.
 
 **2. Example School and Government data**
 
@@ -54,6 +55,9 @@ Here is the PoI type based on tags in osmnx library, the validation process is r
 ![](https://github.com/RodzanIskandar/Jakarta-Origin-Destination-Analysis/blob/main/outputs/poi_count_per_kelurahan.png)
 
 **4. Top 10 number of PoI in kelurahan level**
+
+Top 3 kelurahan PoI
+Kuningan Timur is dominated by diplomatic and company, Gambir by government and Cengkareng Timur with school.
 
 ![](https://github.com/RodzanIskandar/Jakarta-Origin-Destination-Analysis/blob/main/outputs/top_10_poi_kelurahan_table.png)
 ![](https://github.com/RodzanIskandar/Jakarta-Origin-Destination-Analysis/blob/main/outputs/top_poi_count.png)
